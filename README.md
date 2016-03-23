@@ -2,4 +2,4 @@
 
 Testing GitHUB
 
-Here is some more text for testing purposes
+Here is some more text for purposes other than testing
